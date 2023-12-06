@@ -21,7 +21,7 @@
 ### Testing
 - In order to fully function, run `npm install` to install Express before trying to start up your server.
 - Use **Postman** to test out all the functions, dowload Postman --> [Postman](https://www.postman.com/).
-- Or visit visit `localhost:4001` in the browser.
+- Or visit `localhost:4001` in the browser.
 
 ## Remarks
 **The frontend or the website only works for operations without id related.**
